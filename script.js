@@ -7,10 +7,6 @@ let reset = document.getElementById('hidde')
 let numberOfWords = []
 let numberOfChar = []
 
-function count(){
-
-}
-
 button.addEventListener( 'click', function(){
     numberOfChar.push(text.value.replace(/ /g,'').split(''))
     numberOfWords.push(text.value.trim().split(' '))
