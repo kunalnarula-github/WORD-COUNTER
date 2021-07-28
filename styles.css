@@ -4,6 +4,7 @@ body{
     background-color: #E63946;
     font-family: 'Playfair Display', serif;
 }
+
 textarea{
     padding: 10px;
     display: flex;
